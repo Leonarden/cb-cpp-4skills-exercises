@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="230" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="09chararrays/hwrk2_p1_compressing.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="12recfunc/misc1_p1_rand_tours.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="452" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="06selection/misc3_p1_intervals.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="465" topLine="118" />
+		</Cursor>
+	</File>
+	<File name="10marrays/hwrk2_p3_active_robot.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="180" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="11functions/hwrk1_p6_nth_prime.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="226" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

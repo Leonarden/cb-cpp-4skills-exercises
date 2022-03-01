@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1646104386 source:/home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/main.cpp
+	"4skills_exercises.hpp"
+
+1646108578 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/4skills_exercises.hpp
+	"06selection/misc3_p1_intervals_v1.hpp"
+	"09chararrays/hwrk2_p1_compressing_v5.hpp"
+	"10marrays/hwrk2_p3_active_robot_v5.hpp"
+	"11functions/hwrk1_p6_nth_prime_v5.hpp"
+	"12recfunc/misc5_p1_rand_towers_v1.hpp"
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<functional>
+
+1646108163 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/06selection/misc3_p1_intervals_v1.hpp
+	<iostream>
+	<memory>
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+
+1646108174 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/09chararrays/hwrk2_p1_compressing_v5.hpp
+	<iostream>
+	<array>
+	<string>
+
+1646108185 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/10marrays/hwrk2_p3_active_robot_v5.hpp
+	<iostream>
+	<array>
+	<string>
+
+1646108196 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/11functions/hwrk1_p6_nth_prime_v5.hpp
+	<iostream>
+	<array>
+	<string>
+
+1646108207 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cp-backups/cb-cpp-4skills-exercises/12recfunc/misc5_p1_rand_towers_v1.hpp
+	<iostream>
+	<array>
+	<string>
+	<cmath>
+

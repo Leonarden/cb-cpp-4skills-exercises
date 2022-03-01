@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cb-cpp-4skills-exercises" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cb-cpp-4skills-exercises" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cb-cpp-4skills-exercises" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="06selection/misc3_p1_intervals_v1.hpp" />
+		<Unit filename="09chararrays/hwrk2_p1_compressing_v5.hpp" />
+		<Unit filename="09chararrays/hwrksol2_p1_compressing_v1.hpp" />
+		<Unit filename="10marrays/hwrk2_p3_active_robot_v5.hpp" />
+		<Unit filename="10marrays/hwrksol2_p3_active_robot_v1.hpp" />
+		<Unit filename="11functions/hwrk1_p6_nth_prime_v5.hpp" />
+		<Unit filename="11functions/hwrksol1_p6_nth_prime_v1.hpp" />
+		<Unit filename="12recfunc/misc5_p1_rand_towers_v1.hpp" />
+		<Unit filename="4skills_exercises.hpp" />
+		<Unit filename="exercises.csv" />
+		<Unit filename="main.cpp" />
+		<Unit filename="sections.csv" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
